@@ -1,0 +1,6 @@
+1000
+John Smith
+12
+2000
+My Name
+This string should not be here; it should be the lines cleared instead.
