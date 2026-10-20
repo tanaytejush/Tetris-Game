@@ -55,3 +55,8 @@ On Windows use `;` instead of `:` in the classpath.
 ## License
 
 MIT, copyright Eugene Chau. See [LICENSE.txt](LICENSE.txt).
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
