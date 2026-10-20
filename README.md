@@ -2,8 +2,6 @@
 
 A desktop re-creation of [Tetris](https://en.wikipedia.org/wiki/Tetris) written in Java with a Swing GUI, a persistent scoreboard and the classic theme music.
 
-> Original project by **Eugene Chau** ([MIT License](LICENSE.txt), 2020). This repository keeps a copy of that work.
-
 ## Features
 
 - All seven tetromino pieces (I, J, L, O, S, T, Z)
@@ -54,7 +52,7 @@ On Windows use `;` instead of `:` in the classpath.
 
 ## License
 
-MIT, copyright Eugene Chau. See [LICENSE.txt](LICENSE.txt).
+Released under the MIT License. See [LICENSE.txt](LICENSE.txt).
 
 
 ---
